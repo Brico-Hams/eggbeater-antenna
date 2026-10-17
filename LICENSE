@@ -1,0 +1,16 @@
+Eggbeater II 2 m / 70 cm — licensing
+Copyright (c) 2026 BricoHams (Anatol, EA5KAO)
+
+This repository uses different licences for different kinds of files:
+
+Software (scripts/, sim/):
+    MIT License (LICENSES/MIT.txt)
+CAD, STL, documentation and images (cad/, stl/, docs/, README.md):
+    Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+    https://creativecommons.org/licenses/by-sa/4.0/legalcode
+Credits:
+    Original Eggbeater II antenna design by Jerry Brown, K5OE. This repository
+    reproduces his published dimensions; the 3D parts and scripts are BricoHams work.
+
+Software parts are licensed under the MIT License (full text: LICENSES/MIT.txt).
+If a file carries its own licence header, that header takes precedence.
