@@ -1,3 +1,7 @@
+<p align="center"><img src="branding/bricohams_horizontal.svg" alt="BricoHams · Radioafición · Hazlo tú mismo" width="420"></p>
+
+<p align="center"><a href="https://bricohams.org">bricohams.org</a> · Anatol EA5KAO · Diego EA5JEF · Pedro Roca Molina</p>
+
 # Eggbeater II de K5OE (2 m y 70 cm) con piezas impresas en 3D
 
 Es la **Eggbeater II de Jerry Brown, K5OE**, la antena omnidireccional con polarización circular que diseñó para satélites LEO. Se reproduce **con sus medidas originales**. Lo único añadido son las piezas de plástico impresas en 3D que sustituyen a los accesorios de PVC y a los taladros hechos a ojo. No se ha cambiado ninguna medida eléctrica.
